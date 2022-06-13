@@ -10,7 +10,7 @@ Push your project to a new Public GitHub repository
 --Django: https://www.djangoproject.com/   
 Django version 4.0.5
 
---Python https://www.python.org/ 
+--Python https://www.python.org/       
 Python version 3.10.4
 
 #### ⭐ Thanks I4GxZuri Team and Mentors 🏅
